@@ -1,0 +1,11 @@
+{
+  "name": "skill-raleigh-places-2-go",
+  "version": "1.0.0",
+  "description": "In Skill Purchasing Facts skill",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ask-sdk": "^2.0.1"
+  }
+}
